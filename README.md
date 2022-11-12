@@ -16,7 +16,6 @@ https://bitengos.com | https://bitengos.co.il
 4. Email: <strong>השרת</strong> מוגדר לשלוח נתונים שמגעים מאתר <strong>לדוא"ל</strong> החברה<br>
 5. Firebase Hosting: שימש בשירות זה לטובת <strong>אחסון אתר</strong><br>
 6. Firebase Storage: שימש <strong>בשרת קבצים</strong> כדי לשמור תמונת משתמש<br>
-7. Firebase Authentication: שימוש <strong>בשירות ההזדהות</strong>
 </p>
 <br><br>
 <div>
