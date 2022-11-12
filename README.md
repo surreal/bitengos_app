@@ -11,10 +11,10 @@ https://bitengos.com | https://bitengos.co.il
 </h4>
 <p>
 1. שפות שהשתמשתי לטובת בניית אפליקציה: <strong>Dart (Flutter), NodeJS</strong><br>
-2. Firebase Functions: אפליקציה מתקשרת בעזרת טכנולוגיית <strong>REST</strong> עם <strong>השרת</strong> שבניתי אותו במסגרת <strong>Node JS</strong><br>
-3. SQL: <strong>השרת</strong> מוגדר לשמור נתונים שמגעים מאתר <strong>בבסיס נתונים</strong><br>
-4. Email: <strong>השרת</strong> מוגדר לשלוח נתונים שמגעים מאתר <strong>לדוא"ל</strong> החברה<br>
-5. Firebase Hosting: שימש בשירות זה לטובת <strong>אחסון אתר</strong><br>
+2. Firebase Hosting: שימש בשירות זה לטובת <strong>אחסון אתר</strong><br>
+3. Firebase Functions: אפליקציה מתקשרת בעזרת טכנולוגיית <strong>REST</strong> עם <strong>השרת</strong> שבניתי אותו במסגרת <strong>Node JS</strong><br>
+4. SQL: <strong>השרת</strong> מוגדר לשמור נתונים שמגעים מאתר <strong>בבסיס נתונים</strong><br>
+5. Email: <strong>השרת</strong> מוגדר לשלוח נתונים שמגעים מאתר <strong>לדוא"ל</strong> החברה<br>
 </p>
 <br><br>
 <div>
