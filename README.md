@@ -15,7 +15,6 @@ https://bitengos.com | https://bitengos.co.il
 3. SQL: <strong>השרת</strong> מוגדר לשמור נתונים שמגעים מאתר <strong>בבסיס נתונים</strong><br>
 4. Email: <strong>השרת</strong> מוגדר לשלוח נתונים שמגעים מאתר <strong>לדוא"ל</strong> החברה<br>
 5. Firebase Hosting: שימש בשירות זה לטובת <strong>אחסון אתר</strong><br>
-6. Firebase Storage: שימש <strong>בשרת קבצים</strong> כדי לשמור תמונת משתמש<br>
 </p>
 <br><br>
 <div>
