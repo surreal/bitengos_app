@@ -13,7 +13,7 @@ https://bitengos.com | https://bitengos.co.il
 1. שפות: <strong>Dart (Flutter), NodeJS</strong><br>
 2. Firebase Hosting: שימש בשירות זה לטובת <strong>אחסון אתר</strong><br>
 3. Firebase Functions: אפליקציה מתקשרת בעזרת טכנולוגיית <strong>REST</strong> עם <strong>השרת</strong> שבניתי אותו במסגרת <strong>Node JS</strong><br>
-4. SQL: <strong>השרת</strong> מוגדר לשמור נתונים שמגעים מאתר <strong>בבסיס נתונים</strong><br>
+4. SQL: <strong>השרת</strong> מוגדר למשוך ולשמור נתונים שמגעים מאתר <strong>בבסיס נתונים</strong><br>
 5. Email: <strong>השרת</strong> מוגדר לשלוח נתונים שמגעים מאתר <strong>לדוא"ל</strong> החברה<br>
 </p>
 <br><br>
